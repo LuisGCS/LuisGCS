@@ -24,6 +24,9 @@
  
   ![Snake animation](https://github.com/LuisGCS/LuisGCS/blob/output/github-contribution-grid-snake.svg)
 
+
+  
+
   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=LuisGCS&repo=LuisGCS&them=react)](https://github.com/LuisGCS/LuisGCS)
 
 </div>
