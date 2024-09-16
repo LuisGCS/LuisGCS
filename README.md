@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil sou o Luis Guilherme 🤖
+## Olá me chamo Luis Guilherme, seja bem-vindo👋
 
  <div>
    <a href="https://github.com/LuisGCS">
@@ -27,6 +27,6 @@
 
   
 
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=LuisGCS&repo=LuisGCS&them=react)](https://github.com/LuisGCS/LuisGCS)
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?LuisGCS&repo=LuisGCS&them=react)](https://github.com/LuisGCS/LuisGCS)
 
 </div>
