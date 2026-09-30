@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Luis Guilherme 👋</h1>
 
 <p align="center">
-  Graduando estudando <b>Java e Spring Boot</b> para me tornar desenvolvedor backend.
+  Graduando em <b>Ciência da Computação</b>, estudando <b>Java e Spring Boot</b> para me tornar desenvolvedor backend.
 </p>
 
 ---
