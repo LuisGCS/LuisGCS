@@ -1,37 +1,46 @@
-## Olá me chamo Luis Guilherme, seja bem-vindo👋
+<h1 align="center">Olá, eu sou o Luis Guilherme 👋</h1>
 
- <div>
-   <a href="https://github.com/LuisGCS">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisGCS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGCS&layout=compact&langs_count=6&theme=tokyonight"/>
+<p align="center">
+  Graduando estudando <b>Java e Spring Boot</b> para me tornar desenvolvedor backend.
+</p>
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Me siga nas redes abaixo!
- 
-<div> 
-  
-  <a href="https://instagram.com/cardoso_luis1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "luisguilhermecardoso45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luisguilhermedev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
- 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+---
+
+### 🎯 Foco atual
+
+- Aprendendo **Java** e **Spring Boot**
+- Construindo meu primeiro projeto backend (API REST)
+- Praticando Git e GitHub no dia a dia
+
+### 🛠️ Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+### 📂 Projetos
+
+| Projeto | O que é |
+|---|---|
+| [Relogio-em-Js](https://github.com/LuisGCS/Relogio-em-Js) | Relógio analógico com ponteiros em tempo real |
+| [Pokedex_1-Geracao](https://github.com/LuisGCS/Pokedex_1-Geracao) | Pokédex que consome a PokéAPI, com busca por nome ou número |
+| [Mario_Jump](https://github.com/LuisGCS/Mario_Jump) | Jogo de pulo inspirado em Mario, com detecção de colisão |
+| [Mini-Portif-lio](https://github.com/LuisGCS/Mini-Portif-lio) | Minha primeira página de portfólio, com abas interativas |
+
+> Os projetos em Java com Spring Boot entram aqui assim que forem publicados.
+
+### 📫 Contato
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cardoso_luis1)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisguilhermecardoso45@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisguilhermedev)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisGCS/LuisGCS/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Animação do gráfico de contribuições" src="https://raw.githubusercontent.com/LuisGCS/LuisGCS/output/github-contribution-grid-snake.svg">
 </picture>
-<br></br>
-
-  
-
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=LuisGCS&repo=LuisGCS&them=react)](https://github.com/LuisGCS/LuisGCS)
-
-
